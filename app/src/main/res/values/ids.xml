@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="list_alat" type="id" />
+    <item name="updel_jml" type="id" />
+    <item name="text_jml" type="id" />
+    <item name="text_kode" type="id" />
+</resources>

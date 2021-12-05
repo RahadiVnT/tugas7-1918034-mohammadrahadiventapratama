@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#ede0d4</color>
+    <color name="purple_500">#ddb892</color>
+    <color name="purple_700">#e6ccb2</color>
+    <color name="teal_200">#b08968</color>
+    <color name="teal_700">#7f5539</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    //tambah warna
+    <color name="list_row_start_color">#b7b7a4</color>
+    <color name="list_row_end_color">#a5a58d</color>
+    <color name="list_row_hover_start_color">#6b705c</color>
+    <color name="list_row_hover_end_color">#ddbea9</color>
+</resources>
